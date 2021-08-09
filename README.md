@@ -1,2 +1,2 @@
 # miner
-Sugarchain
+Veruscoin
